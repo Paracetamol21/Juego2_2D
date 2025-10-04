@@ -24,7 +24,9 @@ Si un enemigo te toca, aparecerá la pantalla de **DERROTA!!!** y podrás reinic
 | Reiniciar (tras victoria o derrota) | Botón en pantalla |
 
 ---
+##   Video del Juego
 
+<img src="Juego_2D.gif" width="300" alt="Video animado" />
 El juego está pensado como un prototipo de práctica para aprender programación y lógica de videos en Godot.
 
 Puestos modificar, mejorar o expandir los niveles y enemigos facilitar desde el editor.
